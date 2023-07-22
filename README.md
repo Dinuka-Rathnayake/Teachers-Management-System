@@ -21,9 +21,10 @@ Teachers need to register before attending to System. After he/she can use the s
 ### Scrennshots -->
 <img src = "images/login.png"> </br>
 
-<img src = "Mobile-Store-Management_System/src/front-end/public/assets/images/admin-happy-mobile/AdminDashbord.png"> </br>
+<img src = "images/all_results.png">  </br>
 
+<img src = "images/add_teacher.png"> </br>
 
-<img src = "Mobile-Store-Management_System/src/front-end/public/assets/images/admin-happy-mobile/ProductPage.png">  </br>
+<img src = "images/all_results.png"> </br>
 
-<img src = "Mobile-Store-Management_System/src/front-end/public/assets/images/admin-happy-mobile/incomePage.png"> </br>
+<img src = "images/add_results.png"> </br>
