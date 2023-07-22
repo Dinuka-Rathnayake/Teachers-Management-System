@@ -1,5 +1,5 @@
 
-# Edu-School - Teachers Management System
+### Edu-School - Teachers Management System
 ### Member 1 - Rathnayake M.D.M
 ### Member 2 - Pabasara S.D
 ### Member 3 - V.G.Tharushi Lakshika
@@ -7,7 +7,7 @@
 
 
 
-####<h1> Brief Description of Project - </h1> 
+####<h1> Brief Description of the Project - </h1> 
 
 <p>This Project is to develop a Management System for Second Year First Semester OOP Project.
 It provides School to manage teachers, Results and Time Tables. that may help in saving the energy and time that needed to do the studdy by handling Books or hard coppiess.
